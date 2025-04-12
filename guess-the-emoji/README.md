@@ -100,4 +100,4 @@ Let AI read your face and react with an emoji.
 
 ## 📄 License
 
-MIT License © 2025 [Your Name or Org]
+MIT License © 2025 
